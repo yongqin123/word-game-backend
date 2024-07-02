@@ -1,1 +1,1 @@
-This is the backend server for the word game. Make sure that postgres is installed and database created with name postgres and password root.
+This is the backend server for the word game. Make sure that postgres is installed and database created with name postgres and password root. Make sure to install Intellij and run the main function to run the server. It is build using java spring boot.
